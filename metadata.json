@@ -1,0 +1,8 @@
+{
+  "name": "Humanize AI",
+  "description": "Transform AI-generated text into natural, human-like writing that bypasses detection. Choose from various styles like conversational, professional, or academic to match your tone.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
